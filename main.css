@@ -1,0 +1,18 @@
+div{
+	width: 100px;
+	height: 100px;
+	background-color: gray;
+	border: 2px solid black;
+	margin:10px;
+}
+.linea{
+	display:inline-block;
+}
+.grande{
+	padding: 10px;
+	width:380px;
+	height: 120px;
+}
+.one{
+	display:block;
+}
